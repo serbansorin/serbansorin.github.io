@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
     <url>
         <loc>
-            https://synthkode.ro/
+            https://synthkode.ro/404
         </loc>
         <lastmod>
-            2025-10-06T01:07:26.520Z
+            2025-10-06T01:37:57.037Z
         </lastmod>
         <changefreq>
             daily
@@ -19,7 +19,21 @@
             https://synthkode.ro/
         </loc>
         <lastmod>
-            2025-10-06T01:07:26.520Z
+            2025-10-06T01:37:57.037Z
+        </lastmod>
+        <changefreq>
+            daily
+        </changefreq>
+        <priority>
+            1.0
+        </priority>
+    </url>
+    <url>
+        <loc>
+            https://synthkode.ro/
+        </loc>
+        <lastmod>
+            2025-10-06T01:37:57.037Z
         </lastmod>
         <changefreq>
             daily
@@ -33,7 +47,7 @@
             https://synthkode.ro/home
         </loc>
         <lastmod>
-            2025-10-06T01:07:26.520Z
+            2025-10-06T01:37:57.037Z
         </lastmod>
         <changefreq>
             daily
@@ -47,7 +61,7 @@
             https://synthkode.ro/about
         </loc>
         <lastmod>
-            2025-10-06T01:07:26.520Z
+            2025-10-06T01:37:57.037Z
         </lastmod>
         <changefreq>
             daily
@@ -61,7 +75,7 @@
             https://synthkode.ro/services
         </loc>
         <lastmod>
-            2025-10-06T01:07:26.520Z
+            2025-10-06T01:37:57.037Z
         </lastmod>
         <changefreq>
             daily
@@ -75,7 +89,7 @@
             https://synthkode.ro/contact
         </loc>
         <lastmod>
-            2025-10-06T01:07:26.520Z
+            2025-10-06T01:37:57.037Z
         </lastmod>
         <changefreq>
             daily
